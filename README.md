@@ -2,9 +2,9 @@
 ## Tabla de contenidos 📋  
 * **Proyecto sakila**
 * [**Proyecto transferencias**](Proyecto)
-* [**Operaciones con Openrefine**](Openrefine)
+* [**Operaciones con Openrefine**](Openrefine) 💎
 * [**Pentaho**](Pentaho)
-### Proyecto transferencias 🚀  
+### Proyecto transferencias ⚽⚽  
 Podremos observar gráficos y estadísticas de partidos jugados, y en base a esto poder ver una probabilidad del desempeño 
 del equipo en el próximo juego; además de esto podremos observar la proyección de un jugador conforme a los datos que 
 iremos recolectando con el transcurso del tiempo. Los campeones de algunos torneos en particular, los goleadores, asistidores, 
