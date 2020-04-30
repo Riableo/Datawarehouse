@@ -4,5 +4,3 @@
 * Proyecto transferencias  
 * Operaciones con Openrefine  
 * Pentaho  
-## Otra tabla
-* Vamos
