@@ -1,3 +1,0 @@
-PJ INT(3),Minutos int(6),Goles int(4), Asistencia int(6), 
-Amarillas int(4),Rojas int(4),TpP float(4),AP float(4), Aereos float(4),
-JdP int(2), Raiting float(2), Costo int(16),foreign key(id_equipo) references Equipo (id_equipo)
