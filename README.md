@@ -1,6 +1,6 @@
 # Datawarehouse 📊  
 # **Brian Riaño**  
-* **Ocupación** 🎓
+* **Ocupación** 🎓  
 Estudiante de ingeniería de sistemas 6to semestre - Universidad de San Buenaventura
 ## Tabla de contenidos 📋  
 * [**Proyecto sakila**](sakila-db)
